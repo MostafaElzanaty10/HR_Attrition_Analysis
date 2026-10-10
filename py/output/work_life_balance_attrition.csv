@@ -1,0 +1,5 @@
+WorkLifeBalance,employees,employees_left,attrition_rate_pct
+Low,80,25,31.25
+Very High,153,27,17.65
+Medium,344,58,16.86
+High,893,127,14.22
