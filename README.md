@@ -154,7 +154,7 @@ These are areas for further investigation, not proof of direct causation. Recomm
 ## Project Structure
 
 ```text
-Project 2/
+HR_Attrition_Analysis
 ├── README.md
 ├── Power_BI_Dashboard.pbix
 ├── HR_Attrition_Dashboard.xlsx
@@ -164,9 +164,6 @@ Project 2/
 └── images/
     ├── page1_Overview.png
     └── page2_Employee_Experience.png
-```
-
-This is a simplified overview. The `py/` and `py/output/` folders contain the Python analysis files and exported results; the exact file names are retained as they exist in the project.
 
 ## Conclusion
 
